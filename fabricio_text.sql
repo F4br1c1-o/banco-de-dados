@@ -142,7 +142,7 @@ $
 DELIMITER ;
 
 UPDATE funcionarios
-SET nome = 'Diego de Almeida Silva'
+SET nome = 'Fabricio Leandro'
 WHERE id = 5;
 
 DROP TRIGGER tg_Insert2_Funcionarios;
